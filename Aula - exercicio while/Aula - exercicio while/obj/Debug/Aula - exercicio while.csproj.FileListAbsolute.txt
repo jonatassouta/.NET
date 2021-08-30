@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\source\repos\Aula - exercicio while\Aula - exercicio while\bin\Debug\Aula - exercicio while.exe.config
+C:\Users\Jonatas souta\source\repos\Aula - exercicio while\Aula - exercicio while\bin\Debug\Aula - exercicio while.exe
+C:\Users\Jonatas souta\source\repos\Aula - exercicio while\Aula - exercicio while\bin\Debug\Aula - exercicio while.pdb
+C:\Users\Jonatas souta\source\repos\Aula - exercicio while\Aula - exercicio while\obj\Debug\Aula - exercicio while.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\Aula - exercicio while\Aula - exercicio while\obj\Debug\Aula - exercicio while.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\Aula - exercicio while\Aula - exercicio while\obj\Debug\Aula - exercicio while.exe
+C:\Users\Jonatas souta\source\repos\Aula - exercicio while\Aula - exercicio while\obj\Debug\Aula - exercicio while.pdb

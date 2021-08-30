@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\25 - 2 numeros se são iguais\25 - 2 numeros se são iguais\bin\Debug\25 - 2 numeros se são iguais.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\25 - 2 numeros se são iguais\25 - 2 numeros se são iguais\bin\Debug\25 - 2 numeros se são iguais.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\25 - 2 numeros se são iguais\25 - 2 numeros se são iguais\bin\Debug\25 - 2 numeros se são iguais.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\25 - 2 numeros se são iguais\25 - 2 numeros se são iguais\obj\Debug\25 - 2 numeros se são iguais.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\25 - 2 numeros se são iguais\25 - 2 numeros se são iguais\obj\Debug\25 - 2 numeros se são iguais.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\25 - 2 numeros se são iguais\25 - 2 numeros se são iguais\obj\Debug\25 - 2 numeros se são iguais.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\25 - 2 numeros se são iguais\25 - 2 numeros se são iguais\obj\Debug\25 - 2 numeros se são iguais.pdb

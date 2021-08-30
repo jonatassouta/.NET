@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\39 -  nota e classificação\39 -  nota e classificação\bin\Debug\39 -  nota e classificação.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\39 -  nota e classificação\39 -  nota e classificação\bin\Debug\39 -  nota e classificação.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\39 -  nota e classificação\39 -  nota e classificação\bin\Debug\39 -  nota e classificação.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\39 -  nota e classificação\39 -  nota e classificação\obj\Debug\39 -  nota e classificação.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\39 -  nota e classificação\39 -  nota e classificação\obj\Debug\39 -  nota e classificação.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\39 -  nota e classificação\39 -  nota e classificação\obj\Debug\39 -  nota e classificação.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\39 -  nota e classificação\39 -  nota e classificação\obj\Debug\39 -  nota e classificação.pdb

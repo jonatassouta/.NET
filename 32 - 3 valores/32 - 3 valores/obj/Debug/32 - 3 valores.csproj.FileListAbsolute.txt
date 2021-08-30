@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\32 - 3 valores\32 - 3 valores\bin\Debug\32 - 3 valores.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\32 - 3 valores\32 - 3 valores\bin\Debug\32 - 3 valores.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\32 - 3 valores\32 - 3 valores\bin\Debug\32 - 3 valores.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\32 - 3 valores\32 - 3 valores\obj\Debug\32 - 3 valores.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\32 - 3 valores\32 - 3 valores\obj\Debug\32 - 3 valores.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\32 - 3 valores\32 - 3 valores\obj\Debug\32 - 3 valores.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\32 - 3 valores\32 - 3 valores\obj\Debug\32 - 3 valores.csproj.AssemblyReference.cache

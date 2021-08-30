@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\36 - Conta de luz\36 - Conta de luz\bin\Debug\36 - Conta de luz.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\36 - Conta de luz\36 - Conta de luz\bin\Debug\36 - Conta de luz.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\36 - Conta de luz\36 - Conta de luz\bin\Debug\36 - Conta de luz.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\36 - Conta de luz\36 - Conta de luz\obj\Debug\36 - Conta de luz.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\36 - Conta de luz\36 - Conta de luz\obj\Debug\36 - Conta de luz.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\36 - Conta de luz\36 - Conta de luz\obj\Debug\36 - Conta de luz.pdb

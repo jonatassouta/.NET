@@ -1,0 +1,14 @@
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\bin\Debug\Aula - Desafio 2 imprimir os caracter.exe.config
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\bin\Debug\Aula - Desafio 2 imprimir os caracter.exe
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\bin\Debug\Aula - Desafio 2 imprimir os caracter.pdb
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.exe
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.pdb
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\bin\Debug\Aula - Desafio 2 imprimir os caracter.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\bin\Debug\Aula - Desafio 2 imprimir os caracter.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\bin\Debug\Aula - Desafio 2 imprimir os caracter.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 2 imprimir os caracter\Aula - Desafio 2 imprimir os caracter\obj\Debug\Aula - Desafio 2 imprimir os caracter.pdb

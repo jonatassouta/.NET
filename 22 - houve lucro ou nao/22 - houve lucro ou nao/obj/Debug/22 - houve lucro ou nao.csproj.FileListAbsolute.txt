@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\22 - houve lucro ou nao\22 - houve lucro ou nao\bin\Debug\22 - houve lucro ou nao.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\22 - houve lucro ou nao\22 - houve lucro ou nao\bin\Debug\22 - houve lucro ou nao.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\22 - houve lucro ou nao\22 - houve lucro ou nao\bin\Debug\22 - houve lucro ou nao.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\22 - houve lucro ou nao\22 - houve lucro ou nao\obj\Debug\22 - houve lucro ou nao.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\22 - houve lucro ou nao\22 - houve lucro ou nao\obj\Debug\22 - houve lucro ou nao.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\22 - houve lucro ou nao\22 - houve lucro ou nao\obj\Debug\22 - houve lucro ou nao.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\22 - houve lucro ou nao\22 - houve lucro ou nao\obj\Debug\22 - houve lucro ou nao.pdb

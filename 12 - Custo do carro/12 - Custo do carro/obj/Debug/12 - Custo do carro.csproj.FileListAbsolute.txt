@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\source\repos\12 - Custo do carro\12 - Custo do carro\obj\Debug\12 - Custo do carro.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\12 - Custo do carro\12 - Custo do carro\obj\Debug\12 - Custo do carro.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\12 - Custo do carro\12 - Custo do carro\bin\Debug\12 - Custo do carro.exe.config
+C:\Users\Jonatas souta\source\repos\12 - Custo do carro\12 - Custo do carro\bin\Debug\12 - Custo do carro.exe
+C:\Users\Jonatas souta\source\repos\12 - Custo do carro\12 - Custo do carro\bin\Debug\12 - Custo do carro.pdb
+C:\Users\Jonatas souta\source\repos\12 - Custo do carro\12 - Custo do carro\obj\Debug\12 - Custo do carro.exe
+C:\Users\Jonatas souta\source\repos\12 - Custo do carro\12 - Custo do carro\obj\Debug\12 - Custo do carro.pdb

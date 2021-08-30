@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\source\repos\15 - intervalo de 100 a 200\15 - intervalo de 100 a 200\obj\Debug\15 - intervalo de 100 a 200.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\15 - intervalo de 100 a 200\15 - intervalo de 100 a 200\bin\Debug\15 - intervalo de 100 a 200.exe.config
+C:\Users\Jonatas souta\source\repos\15 - intervalo de 100 a 200\15 - intervalo de 100 a 200\bin\Debug\15 - intervalo de 100 a 200.exe
+C:\Users\Jonatas souta\source\repos\15 - intervalo de 100 a 200\15 - intervalo de 100 a 200\bin\Debug\15 - intervalo de 100 a 200.pdb
+C:\Users\Jonatas souta\source\repos\15 - intervalo de 100 a 200\15 - intervalo de 100 a 200\obj\Debug\15 - intervalo de 100 a 200.exe
+C:\Users\Jonatas souta\source\repos\15 - intervalo de 100 a 200\15 - intervalo de 100 a 200\obj\Debug\15 - intervalo de 100 a 200.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\6 - Troca\6 - Troca\bin\Debug\6 - Troca.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\6 - Troca\6 - Troca\bin\Debug\6 - Troca.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\6 - Troca\6 - Troca\bin\Debug\6 - Troca.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\6 - Troca\6 - Troca\obj\Debug\6 - Troca.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\6 - Troca\6 - Troca\obj\Debug\6 - Troca.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\6 - Troca\6 - Troca\obj\Debug\6 - Troca.pdb

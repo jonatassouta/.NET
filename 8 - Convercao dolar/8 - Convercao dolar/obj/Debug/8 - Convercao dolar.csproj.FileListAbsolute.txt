@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\8 - Convercao dolar\8 - Convercao dolar\bin\Debug\8 - Convercao dolar.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\8 - Convercao dolar\8 - Convercao dolar\bin\Debug\8 - Convercao dolar.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\8 - Convercao dolar\8 - Convercao dolar\bin\Debug\8 - Convercao dolar.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\8 - Convercao dolar\8 - Convercao dolar\obj\Debug\8 - Convercao dolar.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\8 - Convercao dolar\8 - Convercao dolar\obj\Debug\8 - Convercao dolar.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\8 - Convercao dolar\8 - Convercao dolar\obj\Debug\8 - Convercao dolar.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\8 - Convercao dolar\8 - Convercao dolar\obj\Debug\8 - Convercao dolar.pdb

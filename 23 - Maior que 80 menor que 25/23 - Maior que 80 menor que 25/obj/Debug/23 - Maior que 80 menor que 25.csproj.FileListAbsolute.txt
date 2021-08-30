@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\23 - Maior que 80 menor que 25\23 - Maior que 80 menor que 25\bin\Debug\23 - Maior que 80 menor que 25.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\23 - Maior que 80 menor que 25\23 - Maior que 80 menor que 25\bin\Debug\23 - Maior que 80 menor que 25.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\23 - Maior que 80 menor que 25\23 - Maior que 80 menor que 25\bin\Debug\23 - Maior que 80 menor que 25.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\23 - Maior que 80 menor que 25\23 - Maior que 80 menor que 25\obj\Debug\23 - Maior que 80 menor que 25.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\23 - Maior que 80 menor que 25\23 - Maior que 80 menor que 25\obj\Debug\23 - Maior que 80 menor que 25.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\23 - Maior que 80 menor que 25\23 - Maior que 80 menor que 25\obj\Debug\23 - Maior que 80 menor que 25.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\23 - Maior que 80 menor que 25\23 - Maior que 80 menor que 25\obj\Debug\23 - Maior que 80 menor que 25.pdb

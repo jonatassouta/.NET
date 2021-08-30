@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\26 - Ler numero de 1 a 5\26 - Ler numero de 1 a 5\bin\Debug\26 - Ler numero de 1 a 5.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\26 - Ler numero de 1 a 5\26 - Ler numero de 1 a 5\bin\Debug\26 - Ler numero de 1 a 5.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\26 - Ler numero de 1 a 5\26 - Ler numero de 1 a 5\bin\Debug\26 - Ler numero de 1 a 5.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\26 - Ler numero de 1 a 5\26 - Ler numero de 1 a 5\obj\Debug\26 - Ler numero de 1 a 5.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\26 - Ler numero de 1 a 5\26 - Ler numero de 1 a 5\obj\Debug\26 - Ler numero de 1 a 5.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\26 - Ler numero de 1 a 5\26 - Ler numero de 1 a 5\obj\Debug\26 - Ler numero de 1 a 5.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\26 - Ler numero de 1 a 5\26 - Ler numero de 1 a 5\obj\Debug\26 - Ler numero de 1 a 5.pdb

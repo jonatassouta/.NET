@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\source\repos\10 - pretsçoes sem juros\10 - pretsçoes sem juros\bin\Debug\10 - pretsçoes sem juros.exe.config
+C:\Users\Jonatas souta\source\repos\10 - pretsçoes sem juros\10 - pretsçoes sem juros\bin\Debug\10 - pretsçoes sem juros.exe
+C:\Users\Jonatas souta\source\repos\10 - pretsçoes sem juros\10 - pretsçoes sem juros\bin\Debug\10 - pretsçoes sem juros.pdb
+C:\Users\Jonatas souta\source\repos\10 - pretsçoes sem juros\10 - pretsçoes sem juros\obj\Debug\10 - pretsçoes sem juros.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\10 - pretsçoes sem juros\10 - pretsçoes sem juros\obj\Debug\10 - pretsçoes sem juros.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\10 - pretsçoes sem juros\10 - pretsçoes sem juros\obj\Debug\10 - pretsçoes sem juros.exe
+C:\Users\Jonatas souta\source\repos\10 - pretsçoes sem juros\10 - pretsçoes sem juros\obj\Debug\10 - pretsçoes sem juros.pdb

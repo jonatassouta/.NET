@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - triangulos\34 - triangulos\obj\Debug\34 - triangulos.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - triangulos\34 - triangulos\obj\Debug\34 - triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - triangulos\34 - triangulos\bin\Debug\34 - triangulos.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - triangulos\34 - triangulos\bin\Debug\34 - triangulos.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - triangulos\34 - triangulos\bin\Debug\34 - triangulos.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - triangulos\34 - triangulos\obj\Debug\34 - triangulos.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - triangulos\34 - triangulos\obj\Debug\34 - triangulos.pdb

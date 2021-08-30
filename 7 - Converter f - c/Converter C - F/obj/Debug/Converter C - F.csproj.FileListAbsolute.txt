@@ -1,0 +1,14 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Converter C - F\Converter C - F\bin\Debug\Converter C - F.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Converter C - F\Converter C - F\bin\Debug\Converter C - F.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Converter C - F\Converter C - F\bin\Debug\Converter C - F.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Converter C - F\Converter C - F\obj\Debug\Converter C - F.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Converter C - F\Converter C - F\obj\Debug\Converter C - F.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Converter C - F\Converter C - F\obj\Debug\Converter C - F.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Converter C - F\Converter C - F\obj\Debug\Converter C - F.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\7 - Converter C - F\Converter C - F\bin\Debug\Converter C - F.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\7 - Converter C - F\Converter C - F\bin\Debug\Converter C - F.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\7 - Converter C - F\Converter C - F\bin\Debug\Converter C - F.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\7 - Converter C - F\Converter C - F\obj\Debug\Converter C - F.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\7 - Converter C - F\Converter C - F\obj\Debug\Converter C - F.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\7 - Converter C - F\Converter C - F\obj\Debug\Converter C - F.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\7 - Converter C - F\Converter C - F\obj\Debug\Converter C - F.pdb

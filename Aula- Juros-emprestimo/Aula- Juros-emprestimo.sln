@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula- Juros-emprestimo", "Aula- Juros-emprestimo\Aula- Juros-emprestimo.csproj", "{230F433F-A373-4E88-B605-3B0A3F362770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230F433F-A373-4E88-B605-3B0A3F362770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230F433F-A373-4E88-B605-3B0A3F362770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230F433F-A373-4E88-B605-3B0A3F362770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230F433F-A373-4E88-B605-3B0A3F362770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90E9316-6A7D-4378-B741-6F1D29E19CD7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\20 - carango velho\20 - carango velho\bin\Debug\20 - carango velho.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\20 - carango velho\20 - carango velho\bin\Debug\20 - carango velho.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\20 - carango velho\20 - carango velho\bin\Debug\20 - carango velho.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\20 - carango velho\20 - carango velho\obj\Debug\20 - carango velho.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\20 - carango velho\20 - carango velho\obj\Debug\20 - carango velho.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\20 - carango velho\20 - carango velho\obj\Debug\20 - carango velho.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\20 - carango velho\20 - carango velho\obj\Debug\20 - carango velho.pdb

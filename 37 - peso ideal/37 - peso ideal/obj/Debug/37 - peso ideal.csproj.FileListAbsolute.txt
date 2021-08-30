@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\37 - peso ideal\37 - peso ideal\bin\Debug\37 - peso ideal.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\37 - peso ideal\37 - peso ideal\bin\Debug\37 - peso ideal.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\37 - peso ideal\37 - peso ideal\bin\Debug\37 - peso ideal.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\37 - peso ideal\37 - peso ideal\obj\Debug\37 - peso ideal.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\37 - peso ideal\37 - peso ideal\obj\Debug\37 - peso ideal.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\37 - peso ideal\37 - peso ideal\obj\Debug\37 - peso ideal.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\37 - peso ideal\37 - peso ideal\obj\Debug\37 - peso ideal.pdb

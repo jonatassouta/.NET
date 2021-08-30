@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - ler e somar arra - menor\Aula - ler e somar arra - menor\obj\Debug\Aula - ler e somar arra - menor.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - ler e somar arra - menor\Aula - ler e somar arra - menor\obj\Debug\Aula - ler e somar arra - menor.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - ler e somar arra - menor\Aula - ler e somar arra - menor\bin\Debug\Aula - ler e somar arra - menor.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - ler e somar arra - menor\Aula - ler e somar arra - menor\bin\Debug\Aula - ler e somar arra - menor.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - ler e somar arra - menor\Aula - ler e somar arra - menor\bin\Debug\Aula - ler e somar arra - menor.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - ler e somar arra - menor\Aula - ler e somar arra - menor\obj\Debug\Aula - ler e somar arra - menor.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - ler e somar arra - menor\Aula - ler e somar arra - menor\obj\Debug\Aula - ler e somar arra - menor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Consumo de combustivel\Consumo de combustivel\bin\Debug\Consumo de combustivel.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Consumo de combustivel\Consumo de combustivel\bin\Debug\Consumo de combustivel.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Consumo de combustivel\Consumo de combustivel\bin\Debug\Consumo de combustivel.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Consumo de combustivel\Consumo de combustivel\obj\Debug\Consumo de combustivel.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Consumo de combustivel\Consumo de combustivel\obj\Debug\Consumo de combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Consumo de combustivel\Consumo de combustivel\obj\Debug\Consumo de combustivel.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Consumo de combustivel\Consumo de combustivel\obj\Debug\Consumo de combustivel.pdb

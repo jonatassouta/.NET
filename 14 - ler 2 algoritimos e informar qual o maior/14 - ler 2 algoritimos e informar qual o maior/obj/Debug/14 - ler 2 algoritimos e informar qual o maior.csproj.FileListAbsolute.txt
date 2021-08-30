@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\source\repos\14 - ler 2 algoritimos e informar qual o maior\14 - ler 2 algoritimos e informar qual o maior\bin\Debug\14 - ler 2 algoritimos e informar qual o maior.exe.config
+C:\Users\Jonatas souta\source\repos\14 - ler 2 algoritimos e informar qual o maior\14 - ler 2 algoritimos e informar qual o maior\bin\Debug\14 - ler 2 algoritimos e informar qual o maior.exe
+C:\Users\Jonatas souta\source\repos\14 - ler 2 algoritimos e informar qual o maior\14 - ler 2 algoritimos e informar qual o maior\bin\Debug\14 - ler 2 algoritimos e informar qual o maior.pdb
+C:\Users\Jonatas souta\source\repos\14 - ler 2 algoritimos e informar qual o maior\14 - ler 2 algoritimos e informar qual o maior\obj\Debug\14 - ler 2 algoritimos e informar qual o maior.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\14 - ler 2 algoritimos e informar qual o maior\14 - ler 2 algoritimos e informar qual o maior\obj\Debug\14 - ler 2 algoritimos e informar qual o maior.exe
+C:\Users\Jonatas souta\source\repos\14 - ler 2 algoritimos e informar qual o maior\14 - ler 2 algoritimos e informar qual o maior\obj\Debug\14 - ler 2 algoritimos e informar qual o maior.pdb

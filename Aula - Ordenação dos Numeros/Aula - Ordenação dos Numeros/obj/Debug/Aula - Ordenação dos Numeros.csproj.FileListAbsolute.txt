@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Ordenação dos Numeros\Aula - Ordenação dos Numeros\bin\Debug\Aula - Ordenação dos Numeros.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Ordenação dos Numeros\Aula - Ordenação dos Numeros\bin\Debug\Aula - Ordenação dos Numeros.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Ordenação dos Numeros\Aula - Ordenação dos Numeros\bin\Debug\Aula - Ordenação dos Numeros.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Ordenação dos Numeros\Aula - Ordenação dos Numeros\obj\Debug\Aula - Ordenação dos Numeros.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Ordenação dos Numeros\Aula - Ordenação dos Numeros\obj\Debug\Aula - Ordenação dos Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Ordenação dos Numeros\Aula - Ordenação dos Numeros\obj\Debug\Aula - Ordenação dos Numeros.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Ordenação dos Numeros\Aula - Ordenação dos Numeros\obj\Debug\Aula - Ordenação dos Numeros.pdb

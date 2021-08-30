@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\19 - informar o sexo h ou m\19 - informar o sexo h ou m\bin\Debug\19 - informar o sexo h ou m.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\19 - informar o sexo h ou m\19 - informar o sexo h ou m\bin\Debug\19 - informar o sexo h ou m.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\19 - informar o sexo h ou m\19 - informar o sexo h ou m\bin\Debug\19 - informar o sexo h ou m.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\19 - informar o sexo h ou m\19 - informar o sexo h ou m\obj\Debug\19 - informar o sexo h ou m.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\19 - informar o sexo h ou m\19 - informar o sexo h ou m\obj\Debug\19 - informar o sexo h ou m.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\19 - informar o sexo h ou m\19 - informar o sexo h ou m\obj\Debug\19 - informar o sexo h ou m.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\19 - informar o sexo h ou m\19 - informar o sexo h ou m\obj\Debug\19 - informar o sexo h ou m.pdb

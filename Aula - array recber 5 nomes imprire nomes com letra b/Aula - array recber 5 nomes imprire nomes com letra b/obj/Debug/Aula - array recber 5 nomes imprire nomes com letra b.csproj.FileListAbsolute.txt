@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\source\repos\Aula - array recber 5 nomes imprire nomes com letra b\Aula - array recber 5 nomes imprire nomes com letra b\bin\Debug\Aula - array recber 5 nomes imprire nomes com letra b.exe.config
+C:\Users\Jonatas souta\source\repos\Aula - array recber 5 nomes imprire nomes com letra b\Aula - array recber 5 nomes imprire nomes com letra b\bin\Debug\Aula - array recber 5 nomes imprire nomes com letra b.exe
+C:\Users\Jonatas souta\source\repos\Aula - array recber 5 nomes imprire nomes com letra b\Aula - array recber 5 nomes imprire nomes com letra b\bin\Debug\Aula - array recber 5 nomes imprire nomes com letra b.pdb
+C:\Users\Jonatas souta\source\repos\Aula - array recber 5 nomes imprire nomes com letra b\Aula - array recber 5 nomes imprire nomes com letra b\obj\Debug\Aula - array recber 5 nomes imprire nomes com letra b.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\Aula - array recber 5 nomes imprire nomes com letra b\Aula - array recber 5 nomes imprire nomes com letra b\obj\Debug\Aula - array recber 5 nomes imprire nomes com letra b.exe
+C:\Users\Jonatas souta\source\repos\Aula - array recber 5 nomes imprire nomes com letra b\Aula - array recber 5 nomes imprire nomes com letra b\obj\Debug\Aula - array recber 5 nomes imprire nomes com letra b.pdb

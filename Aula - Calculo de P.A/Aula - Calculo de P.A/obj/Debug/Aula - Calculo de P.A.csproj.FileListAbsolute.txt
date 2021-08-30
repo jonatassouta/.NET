@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\source\repos\Aula - Calculo de P.A\Aula - Calculo de P.A\bin\Debug\Aula - Calculo de P.A.exe.config
+C:\Users\Jonatas souta\source\repos\Aula - Calculo de P.A\Aula - Calculo de P.A\bin\Debug\Aula - Calculo de P.A.exe
+C:\Users\Jonatas souta\source\repos\Aula - Calculo de P.A\Aula - Calculo de P.A\bin\Debug\Aula - Calculo de P.A.pdb
+C:\Users\Jonatas souta\source\repos\Aula - Calculo de P.A\Aula - Calculo de P.A\obj\Debug\Aula - Calculo de P.A.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\Aula - Calculo de P.A\Aula - Calculo de P.A\obj\Debug\Aula - Calculo de P.A.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\Aula - Calculo de P.A\Aula - Calculo de P.A\obj\Debug\Aula - Calculo de P.A.exe
+C:\Users\Jonatas souta\source\repos\Aula - Calculo de P.A\Aula - Calculo de P.A\obj\Debug\Aula - Calculo de P.A.pdb

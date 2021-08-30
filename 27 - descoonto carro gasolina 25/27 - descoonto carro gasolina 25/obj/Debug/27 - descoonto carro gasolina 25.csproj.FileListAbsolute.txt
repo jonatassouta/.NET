@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\27 - descoonto carro gasolina 25\27 - descoonto carro gasolina 25\bin\Debug\27 - descoonto carro gasolina 25.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\27 - descoonto carro gasolina 25\27 - descoonto carro gasolina 25\bin\Debug\27 - descoonto carro gasolina 25.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\27 - descoonto carro gasolina 25\27 - descoonto carro gasolina 25\bin\Debug\27 - descoonto carro gasolina 25.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\27 - descoonto carro gasolina 25\27 - descoonto carro gasolina 25\obj\Debug\27 - descoonto carro gasolina 25.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\27 - descoonto carro gasolina 25\27 - descoonto carro gasolina 25\obj\Debug\27 - descoonto carro gasolina 25.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\27 - descoonto carro gasolina 25\27 - descoonto carro gasolina 25\obj\Debug\27 - descoonto carro gasolina 25.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\27 - descoonto carro gasolina 25\27 - descoonto carro gasolina 25\obj\Debug\27 - descoonto carro gasolina 25.pdb

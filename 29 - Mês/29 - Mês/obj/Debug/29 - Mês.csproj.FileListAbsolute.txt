@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\29 - Mês\29 - Mês\bin\Debug\29 - Mês.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\29 - Mês\29 - Mês\bin\Debug\29 - Mês.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\29 - Mês\29 - Mês\bin\Debug\29 - Mês.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\29 - Mês\29 - Mês\obj\Debug\29 - Mês.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\29 - Mês\29 - Mês\obj\Debug\29 - Mês.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\29 - Mês\29 - Mês\obj\Debug\29 - Mês.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\29 - Mês\29 - Mês\obj\Debug\29 - Mês.pdb

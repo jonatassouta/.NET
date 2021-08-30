@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\30 - Salario Abono\30 - Salario Abono\bin\Debug\30 - Salario Abono.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\30 - Salario Abono\30 - Salario Abono\bin\Debug\30 - Salario Abono.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\30 - Salario Abono\30 - Salario Abono\bin\Debug\30 - Salario Abono.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\30 - Salario Abono\30 - Salario Abono\obj\Debug\30 - Salario Abono.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\30 - Salario Abono\30 - Salario Abono\obj\Debug\30 - Salario Abono.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\30 - Salario Abono\30 - Salario Abono\obj\Debug\30 - Salario Abono.pdb

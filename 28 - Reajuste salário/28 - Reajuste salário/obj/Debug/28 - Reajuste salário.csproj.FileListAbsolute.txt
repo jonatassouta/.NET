@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\28 - Reajuste salário\28 - Reajuste salário\bin\Debug\28 - Reajuste salário.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\28 - Reajuste salário\28 - Reajuste salário\bin\Debug\28 - Reajuste salário.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\28 - Reajuste salário\28 - Reajuste salário\bin\Debug\28 - Reajuste salário.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\28 - Reajuste salário\28 - Reajuste salário\obj\Debug\28 - Reajuste salário.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\28 - Reajuste salário\28 - Reajuste salário\obj\Debug\28 - Reajuste salário.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\28 - Reajuste salário\28 - Reajuste salário\obj\Debug\28 - Reajuste salário.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\28 - Reajuste salário\28 - Reajuste salário\obj\Debug\28 - Reajuste salário.pdb

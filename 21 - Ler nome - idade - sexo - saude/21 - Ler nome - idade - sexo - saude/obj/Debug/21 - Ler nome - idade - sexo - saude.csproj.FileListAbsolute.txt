@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\21 - Ler nome - idade - sexo - saude\21 - Ler nome - idade - sexo - saude\bin\Debug\21 - Ler nome - idade - sexo - saude.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\21 - Ler nome - idade - sexo - saude\21 - Ler nome - idade - sexo - saude\bin\Debug\21 - Ler nome - idade - sexo - saude.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\21 - Ler nome - idade - sexo - saude\21 - Ler nome - idade - sexo - saude\bin\Debug\21 - Ler nome - idade - sexo - saude.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\21 - Ler nome - idade - sexo - saude\21 - Ler nome - idade - sexo - saude\obj\Debug\21 - Ler nome - idade - sexo - saude.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\21 - Ler nome - idade - sexo - saude\21 - Ler nome - idade - sexo - saude\obj\Debug\21 - Ler nome - idade - sexo - saude.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\21 - Ler nome - idade - sexo - saude\21 - Ler nome - idade - sexo - saude\obj\Debug\21 - Ler nome - idade - sexo - saude.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\21 - Ler nome - idade - sexo - saude\21 - Ler nome - idade - sexo - saude\obj\Debug\21 - Ler nome - idade - sexo - saude.pdb

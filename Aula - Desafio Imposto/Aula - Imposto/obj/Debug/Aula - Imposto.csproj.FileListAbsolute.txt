@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Imposto\Aula - Imposto\bin\Debug\Aula - Imposto.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Imposto\Aula - Imposto\bin\Debug\Aula - Imposto.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Imposto\Aula - Imposto\bin\Debug\Aula - Imposto.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Imposto\Aula - Imposto\obj\Debug\Aula - Imposto.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Imposto\Aula - Imposto\obj\Debug\Aula - Imposto.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Imposto\Aula - Imposto\obj\Debug\Aula - Imposto.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Imposto\Aula - Imposto\obj\Debug\Aula - Imposto.pdb

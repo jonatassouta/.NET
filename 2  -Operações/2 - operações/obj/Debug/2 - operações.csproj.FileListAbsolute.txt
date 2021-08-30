@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\2 - operações\2 - operações\bin\Debug\2 - operações.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\2 - operações\2 - operações\bin\Debug\2 - operações.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\2 - operações\2 - operações\bin\Debug\2 - operações.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\2 - operações\2 - operações\obj\Debug\2 - operações.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\2 - operações\2 - operações\obj\Debug\2 - operações.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\2 - operações\2 - operações\obj\Debug\2 - operações.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\2 - operações\2 - operações\obj\Debug\2 - operações.pdb

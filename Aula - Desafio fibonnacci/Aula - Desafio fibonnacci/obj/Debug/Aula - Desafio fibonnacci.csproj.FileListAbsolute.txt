@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\source\repos\Aula - Desafio fibonnacci\Aula - Desafio fibonnacci\bin\Debug\Aula - Desafio fibonnacci.exe.config
+C:\Users\Jonatas souta\source\repos\Aula - Desafio fibonnacci\Aula - Desafio fibonnacci\bin\Debug\Aula - Desafio fibonnacci.exe
+C:\Users\Jonatas souta\source\repos\Aula - Desafio fibonnacci\Aula - Desafio fibonnacci\bin\Debug\Aula - Desafio fibonnacci.pdb
+C:\Users\Jonatas souta\source\repos\Aula - Desafio fibonnacci\Aula - Desafio fibonnacci\obj\Debug\Aula - Desafio fibonnacci.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\Aula - Desafio fibonnacci\Aula - Desafio fibonnacci\obj\Debug\Aula - Desafio fibonnacci.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\Aula - Desafio fibonnacci\Aula - Desafio fibonnacci\obj\Debug\Aula - Desafio fibonnacci.exe
+C:\Users\Jonatas souta\source\repos\Aula - Desafio fibonnacci\Aula - Desafio fibonnacci\obj\Debug\Aula - Desafio fibonnacci.pdb

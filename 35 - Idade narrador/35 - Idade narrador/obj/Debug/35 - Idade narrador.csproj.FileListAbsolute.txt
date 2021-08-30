@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\35 - Idade narrador\35 - Idade narrador\bin\Debug\35 - Idade narrador.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\35 - Idade narrador\35 - Idade narrador\bin\Debug\35 - Idade narrador.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\35 - Idade narrador\35 - Idade narrador\bin\Debug\35 - Idade narrador.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\35 - Idade narrador\35 - Idade narrador\obj\Debug\35 - Idade narrador.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\35 - Idade narrador\35 - Idade narrador\obj\Debug\35 - Idade narrador.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\35 - Idade narrador\35 - Idade narrador\obj\Debug\35 - Idade narrador.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\source\repos\13 - caso o numero for 10\13 - caso o numero for 10\bin\Debug\13 - caso o numero for 10.exe.config
+C:\Users\Jonatas souta\source\repos\13 - caso o numero for 10\13 - caso o numero for 10\bin\Debug\13 - caso o numero for 10.exe
+C:\Users\Jonatas souta\source\repos\13 - caso o numero for 10\13 - caso o numero for 10\bin\Debug\13 - caso o numero for 10.pdb
+C:\Users\Jonatas souta\source\repos\13 - caso o numero for 10\13 - caso o numero for 10\obj\Debug\13 - caso o numero for 10.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\13 - caso o numero for 10\13 - caso o numero for 10\obj\Debug\13 - caso o numero for 10.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\13 - caso o numero for 10\13 - caso o numero for 10\obj\Debug\13 - caso o numero for 10.exe
+C:\Users\Jonatas souta\source\repos\13 - caso o numero for 10\13 - caso o numero for 10\obj\Debug\13 - caso o numero for 10.pdb

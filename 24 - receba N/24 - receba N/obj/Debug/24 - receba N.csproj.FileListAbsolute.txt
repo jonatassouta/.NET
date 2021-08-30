@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\24 - receba N\24 - receba N\bin\Debug\24 - receba N.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\24 - receba N\24 - receba N\bin\Debug\24 - receba N.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\24 - receba N\24 - receba N\bin\Debug\24 - receba N.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\24 - receba N\24 - receba N\obj\Debug\24 - receba N.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\24 - receba N\24 - receba N\obj\Debug\24 - receba N.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\24 - receba N\24 - receba N\obj\Debug\24 - receba N.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\24 - receba N\24 - receba N\obj\Debug\24 - receba N.pdb

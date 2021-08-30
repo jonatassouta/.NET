@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\17 - ler 80 numeros\17 - ler 80 numeros\bin\Debug\17 - ler 80 numeros.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\17 - ler 80 numeros\17 - ler 80 numeros\bin\Debug\17 - ler 80 numeros.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\17 - ler 80 numeros\17 - ler 80 numeros\bin\Debug\17 - ler 80 numeros.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\17 - ler 80 numeros\17 - ler 80 numeros\obj\Debug\17 - ler 80 numeros.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\17 - ler 80 numeros\17 - ler 80 numeros\obj\Debug\17 - ler 80 numeros.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\17 - ler 80 numeros\17 - ler 80 numeros\obj\Debug\17 - ler 80 numeros.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\17 - ler 80 numeros\17 - ler 80 numeros\obj\Debug\17 - ler 80 numeros.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\source\repos\Aula - EX for ler 4 numeor e somar\Aula - EX for ler 4 numeor e somar\bin\Debug\Aula - EX for ler 4 numeor e somar.exe.config
+C:\Users\Jonatas souta\source\repos\Aula - EX for ler 4 numeor e somar\Aula - EX for ler 4 numeor e somar\bin\Debug\Aula - EX for ler 4 numeor e somar.exe
+C:\Users\Jonatas souta\source\repos\Aula - EX for ler 4 numeor e somar\Aula - EX for ler 4 numeor e somar\bin\Debug\Aula - EX for ler 4 numeor e somar.pdb
+C:\Users\Jonatas souta\source\repos\Aula - EX for ler 4 numeor e somar\Aula - EX for ler 4 numeor e somar\obj\Debug\Aula - EX for ler 4 numeor e somar.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\Aula - EX for ler 4 numeor e somar\Aula - EX for ler 4 numeor e somar\obj\Debug\Aula - EX for ler 4 numeor e somar.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\Aula - EX for ler 4 numeor e somar\Aula - EX for ler 4 numeor e somar\obj\Debug\Aula - EX for ler 4 numeor e somar.exe
+C:\Users\Jonatas souta\source\repos\Aula - EX for ler 4 numeor e somar\Aula - EX for ler 4 numeor e somar\obj\Debug\Aula - EX for ler 4 numeor e somar.pdb

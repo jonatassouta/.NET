@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Calculo de salario\Calculo de salario\bin\Debug\Calculo de salario.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Calculo de salario\Calculo de salario\bin\Debug\Calculo de salario.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Calculo de salario\Calculo de salario\bin\Debug\Calculo de salario.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Calculo de salario\Calculo de salario\obj\Debug\Calculo de salario.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Calculo de salario\Calculo de salario\obj\Debug\Calculo de salario.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Calculo de salario\Calculo de salario\obj\Debug\Calculo de salario.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C#-Basico\Calculo de salario\Calculo de salario\obj\Debug\Calculo de salario.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - É dividido por 2 ou por 3\Aula - É dividido por 2 ou por 3\obj\Debug\Aula - É dividido por 2 ou por 3.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - É dividido por 2 ou por 3\Aula - É dividido por 2 ou por 3\obj\Debug\Aula - É dividido por 2 ou por 3.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - É dividido por 2 ou por 3\Aula - É dividido por 2 ou por 3\bin\Debug\Aula - É dividido por 2 ou por 3.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - É dividido por 2 ou por 3\Aula - É dividido por 2 ou por 3\bin\Debug\Aula - É dividido por 2 ou por 3.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - É dividido por 2 ou por 3\Aula - É dividido por 2 ou por 3\bin\Debug\Aula - É dividido por 2 ou por 3.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - É dividido por 2 ou por 3\Aula - É dividido por 2 ou por 3\obj\Debug\Aula - É dividido por 2 ou por 3.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - É dividido por 2 ou por 3\Aula - É dividido por 2 ou por 3\obj\Debug\Aula - É dividido por 2 ou por 3.pdb

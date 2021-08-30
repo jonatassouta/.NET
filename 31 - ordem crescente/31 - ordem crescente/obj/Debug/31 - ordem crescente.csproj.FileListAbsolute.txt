@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\31 - ordem crescente\31 - ordem crescente\bin\Debug\31 - ordem crescente.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\31 - ordem crescente\31 - ordem crescente\bin\Debug\31 - ordem crescente.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\31 - ordem crescente\31 - ordem crescente\bin\Debug\31 - ordem crescente.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\31 - ordem crescente\31 - ordem crescente\obj\Debug\31 - ordem crescente.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\31 - ordem crescente\31 - ordem crescente\obj\Debug\31 - ordem crescente.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\31 - ordem crescente\31 - ordem crescente\obj\Debug\31 - ordem crescente.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\31 - ordem crescente\31 - ordem crescente\obj\Debug\31 - ordem crescente.pdb

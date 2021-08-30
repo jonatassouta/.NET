@@ -1,0 +1,14 @@
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\bin\Debug\Aula - Desafio 1 Calcular os 10 primeiro.exe.config
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\bin\Debug\Aula - Desafio 1 Calcular os 10 primeiro.exe
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\bin\Debug\Aula - Desafio 1 Calcular os 10 primeiro.pdb
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.exe
+C:\Users\Jonatas souta\source\repos\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\bin\Debug\Aula - Desafio 1 Calcular os 10 primeiro.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\bin\Debug\Aula - Desafio 1 Calcular os 10 primeiro.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\bin\Debug\Aula - Desafio 1 Calcular os 10 primeiro.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - Desafio 1 Calcular os 10 primeiro\Aula - Desafio 1 Calcular os 10 primeiro\obj\Debug\Aula - Desafio 1 Calcular os 10 primeiro.pdb

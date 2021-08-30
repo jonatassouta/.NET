@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\40 - Seguro\40 - Seguro\bin\Debug\40 - Seguro.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\40 - Seguro\40 - Seguro\bin\Debug\40 - Seguro.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\40 - Seguro\40 - Seguro\bin\Debug\40 - Seguro.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\40 - Seguro\40 - Seguro\obj\Debug\40 - Seguro.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\40 - Seguro\40 - Seguro\obj\Debug\40 - Seguro.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\40 - Seguro\40 - Seguro\obj\Debug\40 - Seguro.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\40 - Seguro\40 - Seguro\obj\Debug\40 - Seguro.pdb

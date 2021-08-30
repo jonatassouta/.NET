@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula - array recber 5 nomes imprire nomes com letra b", "Aula - array recber 5 nomes imprire nomes com letra b\Aula - array recber 5 nomes imprire nomes com letra b.csproj", "{24B19BA6-0B19-40A5-B526-5A71CFEC9E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B19BA6-0B19-40A5-B526-5A71CFEC9E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B19BA6-0B19-40A5-B526-5A71CFEC9E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B19BA6-0B19-40A5-B526-5A71CFEC9E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B19BA6-0B19-40A5-B526-5A71CFEC9E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02DDBC1-7196-4D51-8F17-F937B847A256}
+	EndGlobalSection
+EndGlobal

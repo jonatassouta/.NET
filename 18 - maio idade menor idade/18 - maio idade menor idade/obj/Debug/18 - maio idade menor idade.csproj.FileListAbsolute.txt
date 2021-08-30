@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\18 - maio idade menor idade\18 - maio idade menor idade\bin\Debug\18 - maio idade menor idade.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\18 - maio idade menor idade\18 - maio idade menor idade\bin\Debug\18 - maio idade menor idade.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\18 - maio idade menor idade\18 - maio idade menor idade\bin\Debug\18 - maio idade menor idade.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\18 - maio idade menor idade\18 - maio idade menor idade\obj\Debug\18 - maio idade menor idade.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\18 - maio idade menor idade\18 - maio idade menor idade\obj\Debug\18 - maio idade menor idade.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\18 - maio idade menor idade\18 - maio idade menor idade\obj\Debug\18 - maio idade menor idade.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\18 - maio idade menor idade\18 - maio idade menor idade\obj\Debug\18 - maio idade menor idade.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - 20 a 90 anos\Aula - 20 a 90 anos\bin\Debug\Aula - 20 a 90 anos.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - 20 a 90 anos\Aula - 20 a 90 anos\bin\Debug\Aula - 20 a 90 anos.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - 20 a 90 anos\Aula - 20 a 90 anos\bin\Debug\Aula - 20 a 90 anos.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - 20 a 90 anos\Aula - 20 a 90 anos\obj\Debug\Aula - 20 a 90 anos.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - 20 a 90 anos\Aula - 20 a 90 anos\obj\Debug\Aula - 20 a 90 anos.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - 20 a 90 anos\Aula - 20 a 90 anos\obj\Debug\Aula - 20 a 90 anos.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula - 20 a 90 anos\Aula - 20 a 90 anos\obj\Debug\Aula - 20 a 90 anos.pdb

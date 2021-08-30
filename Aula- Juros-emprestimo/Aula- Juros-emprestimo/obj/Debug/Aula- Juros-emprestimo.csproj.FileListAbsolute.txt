@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula- Juros-emprestimo\Aula- Juros-emprestimo\bin\Debug\Aula- Juros-emprestimo.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula- Juros-emprestimo\Aula- Juros-emprestimo\bin\Debug\Aula- Juros-emprestimo.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula- Juros-emprestimo\Aula- Juros-emprestimo\bin\Debug\Aula- Juros-emprestimo.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula- Juros-emprestimo\Aula- Juros-emprestimo\obj\Debug\Aula- Juros-emprestimo.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula- Juros-emprestimo\Aula- Juros-emprestimo\obj\Debug\Aula- Juros-emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula- Juros-emprestimo\Aula- Juros-emprestimo\obj\Debug\Aula- Juros-emprestimo.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Aula- Juros-emprestimo\Aula- Juros-emprestimo\obj\Debug\Aula- Juros-emprestimo.pdb

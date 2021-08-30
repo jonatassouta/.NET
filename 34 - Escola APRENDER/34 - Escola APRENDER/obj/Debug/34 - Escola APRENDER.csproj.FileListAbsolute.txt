@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - Escola APRENDER\34 - Escola APRENDER\bin\Debug\34 - Escola APRENDER.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - Escola APRENDER\34 - Escola APRENDER\bin\Debug\34 - Escola APRENDER.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - Escola APRENDER\34 - Escola APRENDER\bin\Debug\34 - Escola APRENDER.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - Escola APRENDER\34 - Escola APRENDER\obj\Debug\34 - Escola APRENDER.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - Escola APRENDER\34 - Escola APRENDER\obj\Debug\34 - Escola APRENDER.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - Escola APRENDER\34 - Escola APRENDER\obj\Debug\34 - Escola APRENDER.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\34 - Escola APRENDER\34 - Escola APRENDER\obj\Debug\34 - Escola APRENDER.pdb

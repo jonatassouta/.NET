@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\11 - Preço de custo\11 - Preço de custo\bin\Debug\11 - Preço de custo.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\11 - Preço de custo\11 - Preço de custo\bin\Debug\11 - Preço de custo.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\11 - Preço de custo\11 - Preço de custo\bin\Debug\11 - Preço de custo.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\11 - Preço de custo\11 - Preço de custo\obj\Debug\11 - Preço de custo.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\11 - Preço de custo\11 - Preço de custo\obj\Debug\11 - Preço de custo.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\11 - Preço de custo\11 - Preço de custo\obj\Debug\11 - Preço de custo.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\11 - Preço de custo\11 - Preço de custo\obj\Debug\11 - Preço de custo.pdb

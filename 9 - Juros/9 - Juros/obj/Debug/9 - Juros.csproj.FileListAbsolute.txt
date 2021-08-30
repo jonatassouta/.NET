@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\9 - Juros\9 - Juros\bin\Debug\9 - Juros.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\9 - Juros\9 - Juros\bin\Debug\9 - Juros.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\9 - Juros\9 - Juros\bin\Debug\9 - Juros.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\9 - Juros\9 - Juros\obj\Debug\9 - Juros.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\9 - Juros\9 - Juros\obj\Debug\9 - Juros.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\9 - Juros\9 - Juros\obj\Debug\9 - Juros.pdb

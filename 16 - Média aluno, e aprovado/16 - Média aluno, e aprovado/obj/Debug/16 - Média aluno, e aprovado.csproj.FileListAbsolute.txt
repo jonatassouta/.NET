@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\16 - Média aluno, e aprovado\16 - Média aluno, e aprovado\bin\Debug\16 - Média aluno, e aprovado.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\16 - Média aluno, e aprovado\16 - Média aluno, e aprovado\bin\Debug\16 - Média aluno, e aprovado.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\16 - Média aluno, e aprovado\16 - Média aluno, e aprovado\bin\Debug\16 - Média aluno, e aprovado.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\16 - Média aluno, e aprovado\16 - Média aluno, e aprovado\obj\Debug\16 - Média aluno, e aprovado.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\16 - Média aluno, e aprovado\16 - Média aluno, e aprovado\obj\Debug\16 - Média aluno, e aprovado.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\16 - Média aluno, e aprovado\16 - Média aluno, e aprovado\obj\Debug\16 - Média aluno, e aprovado.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\16 - Média aluno, e aprovado\16 - Média aluno, e aprovado\obj\Debug\16 - Média aluno, e aprovado.pdb
