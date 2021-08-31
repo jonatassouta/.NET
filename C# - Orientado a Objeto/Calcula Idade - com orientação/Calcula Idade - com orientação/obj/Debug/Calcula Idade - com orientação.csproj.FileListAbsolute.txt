@@ -1,0 +1,14 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Calcula Idade - com orientação\Calcula Idade - com orientação\bin\Debug\Calcula Idade - com orientação.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Calcula Idade - com orientação\Calcula Idade - com orientação\bin\Debug\Calcula Idade - com orientação.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Calcula Idade - com orientação\Calcula Idade - com orientação\bin\Debug\Calcula Idade - com orientação.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Calcula Idade - com orientação\Calcula Idade - com orientação\obj\Debug\Calcula Idade - com orientação.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Calcula Idade - com orientação\Calcula Idade - com orientação\bin\Debug\Calcula Idade - com orientação.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Calcula Idade - com orientação\Calcula Idade - com orientação\bin\Debug\Calcula Idade - com orientação.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Calcula Idade - com orientação\Calcula Idade - com orientação\bin\Debug\Calcula Idade - com orientação.pdb

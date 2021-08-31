@@ -1,0 +1,6 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\ByteBank\03 - ByteBank\bin\Debug\03 - ByteBank.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\ByteBank\03 - ByteBank\bin\Debug\03 - ByteBank.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\ByteBank\03 - ByteBank\bin\Debug\03 - ByteBank.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\ByteBank\03 - ByteBank\obj\Debug\03 - ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\ByteBank\03 - ByteBank\obj\Debug\03 - ByteBank.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\ByteBank\03 - ByteBank\obj\Debug\03 - ByteBank.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercico - Idade\Exercico - Idade\bin\Debug\Exercico - Idade.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercico - Idade\Exercico - Idade\bin\Debug\Exercico - Idade.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercico - Idade\Exercico - Idade\bin\Debug\Exercico - Idade.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercico - Idade\Exercico - Idade\obj\Debug\Exercico - Idade.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercico - Idade\Exercico - Idade\obj\Debug\Exercico - Idade.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercico - Idade\Exercico - Idade\obj\Debug\Exercico - Idade.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercico - Idade\Exercico - Idade\obj\Debug\Exercico - Idade.pdb

@@ -1,0 +1,14 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Exercicio banco MEU\Exercicio banco MEU\bin\Debug\Exercicio banco MEU.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Exercicio banco MEU\Exercicio banco MEU\bin\Debug\Exercicio banco MEU.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Exercicio banco MEU\Exercicio banco MEU\bin\Debug\Exercicio banco MEU.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio banco MEU\Exercicio banco MEU\bin\Debug\Exercicio banco MEU.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio banco MEU\Exercicio banco MEU\bin\Debug\Exercicio banco MEU.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio banco MEU\Exercicio banco MEU\bin\Debug\Exercicio banco MEU.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio banco MEU\Exercicio banco MEU\obj\Debug\Exercicio banco MEU.pdb
