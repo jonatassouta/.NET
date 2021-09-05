@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\bin\Debug\Album de Fotos.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\bin\Debug\Album de Fotos.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\bin\Debug\Album de Fotos.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.pdb

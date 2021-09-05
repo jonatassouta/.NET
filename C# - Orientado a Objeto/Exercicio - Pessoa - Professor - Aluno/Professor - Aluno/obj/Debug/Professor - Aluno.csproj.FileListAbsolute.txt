@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Professor - Aluno\Professor - Aluno\bin\Debug\Professor - Aluno.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Professor - Aluno\Professor - Aluno\bin\Debug\Professor - Aluno.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Professor - Aluno\Professor - Aluno\bin\Debug\Professor - Aluno.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Professor - Aluno\Professor - Aluno\obj\Debug\Professor - Aluno.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Professor - Aluno\Professor - Aluno\obj\Debug\Professor - Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Professor - Aluno\Professor - Aluno\obj\Debug\Professor - Aluno.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Professor - Aluno\Professor - Aluno\obj\Debug\Professor - Aluno.pdb

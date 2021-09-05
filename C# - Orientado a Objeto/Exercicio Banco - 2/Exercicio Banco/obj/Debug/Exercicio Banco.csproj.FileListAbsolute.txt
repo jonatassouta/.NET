@@ -1,0 +1,14 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco\Exercicio Banco\bin\Debug\Exercicio Banco.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco\Exercicio Banco\bin\Debug\Exercicio Banco.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco\Exercicio Banco\bin\Debug\Exercicio Banco.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco - 2\Exercicio Banco\bin\Debug\Exercicio Banco.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco - 2\Exercicio Banco\bin\Debug\Exercicio Banco.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco - 2\Exercicio Banco\bin\Debug\Exercicio Banco.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco - 2\Exercicio Banco\obj\Debug\Exercicio Banco.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco - 2\Exercicio Banco\obj\Debug\Exercicio Banco.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco - 2\Exercicio Banco\obj\Debug\Exercicio Banco.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicio Banco - 2\Exercicio Banco\obj\Debug\Exercicio Banco.pdb

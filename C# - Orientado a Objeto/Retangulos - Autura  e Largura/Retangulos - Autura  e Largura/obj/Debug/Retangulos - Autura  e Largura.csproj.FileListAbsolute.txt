@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Retangulos - Autura  e Largura\Retangulos - Autura  e Largura\bin\Debug\Retangulos - Autura  e Largura.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Retangulos - Autura  e Largura\Retangulos - Autura  e Largura\bin\Debug\Retangulos - Autura  e Largura.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Retangulos - Autura  e Largura\Retangulos - Autura  e Largura\bin\Debug\Retangulos - Autura  e Largura.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Retangulos - Autura  e Largura\Retangulos - Autura  e Largura\obj\Debug\Retangulos - Autura  e Largura.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Retangulos - Autura  e Largura\Retangulos - Autura  e Largura\obj\Debug\Retangulos - Autura  e Largura.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Retangulos - Autura  e Largura\Retangulos - Autura  e Largura\obj\Debug\Retangulos - Autura  e Largura.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Retangulos - Autura  e Largura\Retangulos - Autura  e Largura\obj\Debug\Retangulos - Autura  e Largura.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicios Banco\Exercicios Banco\bin\Debug\Exercicios Banco.exe.config
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicios Banco\Exercicios Banco\bin\Debug\Exercicios Banco.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicios Banco\Exercicios Banco\bin\Debug\Exercicios Banco.pdb
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicios Banco\Exercicios Banco\obj\Debug\Exercicios Banco.csproj.AssemblyReference.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicios Banco\Exercicios Banco\obj\Debug\Exercicios Banco.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicios Banco\Exercicios Banco\obj\Debug\Exercicios Banco.exe
+C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Exercicios Banco\Exercicios Banco\obj\Debug\Exercicios Banco.pdb
