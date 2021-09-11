@@ -1,0 +1,7 @@
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Try cacth\Try cacth\bin\Debug\Try cacth.exe.config
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Try cacth\Try cacth\bin\Debug\Try cacth.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Try cacth\Try cacth\bin\Debug\Try cacth.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Try cacth\Try cacth\obj\Debug\Try cacth.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Try cacth\Try cacth\obj\Debug\Try cacth.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Try cacth\Try cacth\obj\Debug\Try cacth.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Try cacth\Try cacth\obj\Debug\Try cacth.pdb

@@ -5,3 +5,10 @@ C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - 
 C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.csproj.CoreCompileInputs.cache
 C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.exe
 C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\Exercicios - C#\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.pdb
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Album de Fotos\Album de Fotos\bin\Debug\Album de Fotos.exe.config
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Album de Fotos\Album de Fotos\bin\Debug\Album de Fotos.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Album de Fotos\Album de Fotos\bin\Debug\Album de Fotos.pdb
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.csproj.AssemblyReference.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Album de Fotos\Album de Fotos\obj\Debug\Album de Fotos.pdb

@@ -27,6 +27,9 @@ namespace Exercicio_Banco
             ContaPoupança p2 = new ContaPoupança(nome, numeroConta, numeroAgencia);
 
 
+            p1.TotalDeContas();
+            Console.ReadLine();
+
             //p2.Autenticar("Musica");
             //Conta Corrente
 
@@ -39,6 +42,10 @@ namespace Exercicio_Banco
             Console.ReadKey();
 
             p1.Sacar(p1.valorSaque);
+            Console.ReadKey();
+
+            p1.PagarConta();
+            p1.ExibirDados();
             Console.ReadKey();
 
             //Conta Poupança
@@ -71,7 +78,7 @@ namespace Exercicio_Banco
 
             //--------------------------------------------------
 
-            
+           
         }
     }
 }

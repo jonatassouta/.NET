@@ -1,0 +1,7 @@
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Dados Funcionarios\Dados Funcionarios\obj\Debug\Dados Funcionarios.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Dados Funcionarios\Dados Funcionarios\obj\Debug\Dados Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Dados Funcionarios\Dados Funcionarios\bin\Debug\Dados Funcionarios.exe.config
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Dados Funcionarios\Dados Funcionarios\bin\Debug\Dados Funcionarios.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Dados Funcionarios\Dados Funcionarios\bin\Debug\Dados Funcionarios.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Dados Funcionarios\Dados Funcionarios\obj\Debug\Dados Funcionarios.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Dados Funcionarios\Dados Funcionarios\obj\Debug\Dados Funcionarios.pdb

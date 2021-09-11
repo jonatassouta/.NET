@@ -8,6 +8,7 @@ namespace Exercicio_Banco
 {
     abstract public class Conta
     {
+        static public int NumeroDeContas = 0;
 
         private string nome;
 
@@ -53,6 +54,9 @@ namespace Exercicio_Banco
 
         public string Senha { get; set; }
 
+        public double chequeEspecial { get; set; }
+
+
         // Método construtor
         public Conta(string nome, int numeroConta, int numeroAgencia)
         {
@@ -61,6 +65,13 @@ namespace Exercicio_Banco
             NumeroAgencia = numeroAgencia;
             Saldo = 200;
             Senha = "Musica";
+            chequeEspecial = 500;
+        }
+
+        public void TotalDeContas()
+        {
+            NumeroDeContas++;
+            Console.WriteLine("\nTotal de contas criadas é de: " + NumeroDeContas);
         }
 
         //Métodos exibir dados
@@ -71,6 +82,7 @@ namespace Exercicio_Banco
             Console.WriteLine($"Numero da Conta: {NumeroConta}");
             Console.WriteLine($"Nunero da Agencia: {NumeroAgencia}");
             Console.WriteLine($"Saldo: {Saldo}");
+            Console.WriteLine($"Cheque especial: {chequeEspecial}");
         }
 
         //Métodos
@@ -134,6 +146,57 @@ namespace Exercicio_Banco
                 opc1 = opc1.ToUpper(); 
 
             } while (opc1 == "S");
+
+            return Saldo;
+        }
+
+        public string ChequeEspecial()
+        {
+            string opccheque = "";
+
+            Console.WriteLine("\n\nDeseja usar cheque especial? S ou N");
+            opccheque = Console.ReadLine();
+            opccheque = opccheque.ToUpper();
+
+            return opccheque;
+        }
+        public double PagarConta()
+        {
+            double valorConta;
+
+            string opccheque = ChequeEspecial();
+
+            Console.WriteLine("\n\nQual o valor da conta que deseja pagar?");
+            valorConta = double.Parse(Console.ReadLine());
+
+            if (opccheque == "S")
+            {
+                if (Saldo == 0 && chequeEspecial > valorConta)
+                {
+                    chequeEspecial -= valorConta;
+                }
+                else if (valorConta > Saldo && Saldo > 0)
+                {
+                    Saldo = valorConta - Saldo;
+                    chequeEspecial -= Saldo;
+                    Saldo = 0;
+                }
+                else if (Saldo == 0 && chequeEspecial < valorConta)
+                {
+                    Console.WriteLine("\n\n\tValor do cheque especial insuficiente.");
+                }
+            }
+            else
+            {
+                if (valorConta > Saldo)
+                {
+                    Console.WriteLine("\n\n\tSaldo insuficiente para a transferência");
+                }
+                else if (Saldo >= valorConta)
+                {
+                    Saldo -= valorConta;
+                }
+            }
 
             return Saldo;
         }

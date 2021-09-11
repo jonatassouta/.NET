@@ -5,3 +5,10 @@ C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orienta�
 C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.CoreCompileInputs.cache
 C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Veiculos\Veiculos\obj\Debug\Veiculos.exe
 C:\Users\Jonatas souta\Desktop\Turma de Formação .Net Cast Group\C# - Orientação a Objeto\Veiculos\Veiculos\obj\Debug\Veiculos.pdb
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Mini RPG - Veiculos\Veiculos\bin\Debug\Veiculos.exe.config
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Mini RPG - Veiculos\Veiculos\bin\Debug\Veiculos.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Mini RPG - Veiculos\Veiculos\bin\Debug\Veiculos.pdb
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Mini RPG - Veiculos\Veiculos\obj\Debug\Veiculos.csproj.AssemblyReference.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Mini RPG - Veiculos\Veiculos\obj\Debug\Veiculos.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Mini RPG - Veiculos\Veiculos\obj\Debug\Veiculos.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Mini RPG - Veiculos\Veiculos\obj\Debug\Veiculos.pdb

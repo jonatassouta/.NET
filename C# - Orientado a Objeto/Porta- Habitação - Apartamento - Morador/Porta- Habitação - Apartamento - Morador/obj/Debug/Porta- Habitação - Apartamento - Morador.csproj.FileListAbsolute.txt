@@ -1,0 +1,7 @@
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Porta- Habitação - Apartamento - Morador\Porta- Habitação - Apartamento - Morador\bin\Debug\Porta- Habitação - Apartamento - Morador.exe.config
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Porta- Habitação - Apartamento - Morador\Porta- Habitação - Apartamento - Morador\bin\Debug\Porta- Habitação - Apartamento - Morador.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Porta- Habitação - Apartamento - Morador\Porta- Habitação - Apartamento - Morador\bin\Debug\Porta- Habitação - Apartamento - Morador.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Porta- Habitação - Apartamento - Morador\Porta- Habitação - Apartamento - Morador\obj\Debug\Porta- Habitação - Apartamento - Morador.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Porta- Habitação - Apartamento - Morador\Porta- Habitação - Apartamento - Morador\obj\Debug\Porta- Habitação - Apartamento - Morador.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Porta- Habitação - Apartamento - Morador\Porta- Habitação - Apartamento - Morador\obj\Debug\Porta- Habitação - Apartamento - Morador.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\Porta- Habitação - Apartamento - Morador\Porta- Habitação - Apartamento - Morador\obj\Debug\Porta- Habitação - Apartamento - Morador.pdb

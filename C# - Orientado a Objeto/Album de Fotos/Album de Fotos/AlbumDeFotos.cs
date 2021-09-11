@@ -39,13 +39,16 @@ namespace Album_de_Fotos
             Console.Write("\n\nQuantas fotos você quer guardar? ");
             numeroDeFotos = int.Parse(Console.ReadLine());
 
+
             if (numeroDeFotos > numeroTotalDeFotos)
              {
-                 Console.Write("\nNumero de fotos excede o valor total de fotos por Página.");
+                Console.Clear();
+                Console.Write("\nNumero de fotos maior do que limite suportado");
              }
              else
-             { 
-                 Console.Write("\nFotos adcionadas com sucesso");
+             {
+                Console.Clear();
+                Console.Write("\nFotos adcionadas com sucesso");
              }
         }
     }

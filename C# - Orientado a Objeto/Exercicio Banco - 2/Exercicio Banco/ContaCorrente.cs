@@ -20,8 +20,16 @@ namespace Exercicio_Banco
             Console.WriteLine("\n\nQual o valor da transferencia: ");
             valorTransferencia = double.Parse(Console.ReadLine());
 
-            recebe.Saldo += valorTransferencia;
-            envia.Saldo -= valorTransferencia;
+            if (valorTransferencia > envia.Saldo)
+            {
+                Console.WriteLine("\n\n\tSaldo insuficiente!");
+            }
+            else
+            {
+                recebe.Saldo += valorTransferencia;
+                envia.Saldo -= valorTransferencia;
+            }
+            
         }
     }
 }

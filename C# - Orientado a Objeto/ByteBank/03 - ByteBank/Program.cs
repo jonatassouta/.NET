@@ -10,6 +10,22 @@ namespace _03___ByteBank
     {
         static void Main(string[] args)
         {
+            try
+            {
+                Metodo();
+            }
+            catch (DivideByZeroException excecao)
+            {
+                Console.WriteLine("Exceção tratada!!!");
+                Console.WriteLine(excecao.Message);
+                Console.WriteLine(excecao.StackTrace);
+            }
+
+            Console.ReadLine();
+        }
+
+      //------------------------------------------------------------------------
+        /*
             ContaCorrente contaDaGabriela = new ContaCorrente();
             contaDaGabriela.titular = "Gabriela";
             contaDaGabriela.agencia = 863;
@@ -37,8 +53,33 @@ namespace _03___ByteBank
             Console.WriteLine(contaDaGabrielaCosta.saldo);
 
 
-
             Console.ReadLine();
+        } */
+
+        static public int Dividir(int numero, int divisor)
+        {
+            ContaCorrente conta = null;
+            Console.WriteLine(conta.saldo);
+            return numero /= divisor;
+        }
+
+        static void Metodo()
+        {
+            try
+            {
+
+                TestarDivisao(0);
+            }
+            catch (NullReferenceException excecao)
+            {
+                Console.WriteLine(excecao.Message);
+                Console.WriteLine(excecao.StackTrace);
+            }
+        }
+
+        static public void TestarDivisao(int divisor)
+        {
+            Dividir(10, divisor);
         }
     }
 }
