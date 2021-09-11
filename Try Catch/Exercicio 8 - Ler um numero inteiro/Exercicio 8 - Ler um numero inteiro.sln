@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 8 - Ler um numero inteiro", "Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro.csproj", "{5E20F23F-204F-49E5-B835-24AFDF5BB2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E20F23F-204F-49E5-B835-24AFDF5BB2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E20F23F-204F-49E5-B835-24AFDF5BB2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E20F23F-204F-49E5-B835-24AFDF5BB2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E20F23F-204F-49E5-B835-24AFDF5BB2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5B5156-3E4D-440D-AA58-2CB4150B2A69}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\bin\Debug\Exercicio 8 - Ler um numero inteiro.exe.config
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\bin\Debug\Exercicio 8 - Ler um numero inteiro.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\bin\Debug\Exercicio 8 - Ler um numero inteiro.pdb
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.csproj.AssemblyReference.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.pdb
+C:\Meus Projetos\.NET\Try Catch\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\bin\Debug\Exercicio 8 - Ler um numero inteiro.exe.config
+C:\Meus Projetos\.NET\Try Catch\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\bin\Debug\Exercicio 8 - Ler um numero inteiro.exe
+C:\Meus Projetos\.NET\Try Catch\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\bin\Debug\Exercicio 8 - Ler um numero inteiro.pdb
+C:\Meus Projetos\.NET\Try Catch\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.csproj.AssemblyReference.cache
+C:\Meus Projetos\.NET\Try Catch\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\.NET\Try Catch\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.exe
+C:\Meus Projetos\.NET\Try Catch\Exercicio 8 - Ler um numero inteiro\Exercicio 8 - Ler um numero inteiro\obj\Debug\Exercicio 8 - Ler um numero inteiro.pdb

@@ -1,0 +1,14 @@
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.csproj.AssemblyReference.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\bin\Debug\Execicio 9 - Tratar o erro caso ouver algum.exe.config
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\bin\Debug\Execicio 9 - Tratar o erro caso ouver algum.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\bin\Debug\Execicio 9 - Tratar o erro caso ouver algum.pdb
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.exe
+C:\Meus Projetos\.NET\C# - Orientado a Objeto\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.pdb
+C:\Meus Projetos\.NET\Try Catch\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\bin\Debug\Execicio 9 - Tratar o erro caso ouver algum.exe.config
+C:\Meus Projetos\.NET\Try Catch\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\bin\Debug\Execicio 9 - Tratar o erro caso ouver algum.exe
+C:\Meus Projetos\.NET\Try Catch\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\bin\Debug\Execicio 9 - Tratar o erro caso ouver algum.pdb
+C:\Meus Projetos\.NET\Try Catch\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.csproj.AssemblyReference.cache
+C:\Meus Projetos\.NET\Try Catch\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\.NET\Try Catch\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.exe
+C:\Meus Projetos\.NET\Try Catch\Execicio 9 - Tratar o erro caso ouver algum\Execicio 9 - Tratar o erro caso ouver algum\obj\Debug\Execicio 9 - Tratar o erro caso ouver algum.pdb
