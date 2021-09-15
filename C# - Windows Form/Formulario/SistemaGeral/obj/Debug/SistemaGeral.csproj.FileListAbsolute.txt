@@ -1,0 +1,13 @@
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\bin\Debug\SistemaGeral.exe.config
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\bin\Debug\SistemaGeral.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\bin\Debug\SistemaGeral.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.Properties.Resources.resources
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.FrmCadClientes.resources
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.FmrProduto.resources
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.FmrInicial.resources
+C:\Users\jonat\Desktop\Turma de Formação Cast\Orientação a Objeto\SistemaGeral\SistemaGeral\obj\Debug\SistemaGeral.FmrAjuda.resources
