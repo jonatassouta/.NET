@@ -1,0 +1,10 @@
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\bin\Debug\WebBrowser By Jonatas.exe.config
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\bin\Debug\WebBrowser By Jonatas.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\bin\Debug\WebBrowser By Jonatas.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\obj\Debug\WebBrowser By Jonatas.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\obj\Debug\WebBrowser_By_Jonatas.Form1.resources
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\obj\Debug\WebBrowser_By_Jonatas.Properties.Resources.resources
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\obj\Debug\WebBrowser By Jonatas.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\obj\Debug\WebBrowser By Jonatas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\obj\Debug\WebBrowser By Jonatas.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\WebBrowser By Jonatas\WebBrowser By Jonatas\obj\Debug\WebBrowser By Jonatas.pdb
