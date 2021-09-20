@@ -1,0 +1,10 @@
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\jonat\Desktop\Turma de Formação Cast\Windows Form\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources

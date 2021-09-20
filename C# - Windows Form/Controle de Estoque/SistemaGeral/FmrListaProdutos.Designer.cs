@@ -129,7 +129,7 @@ namespace SistemaGeral {
             this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FmrListaProdutos";
-            this.Text = "FmrListaProdutos";
+            this.Text = "7";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

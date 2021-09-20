@@ -21,16 +21,15 @@ namespace SistemaGeral {
         public void AdicionarTabela() {
             try {
                 p.dt.Rows.Add(new Object[] { txtProduto.Text, txtQuantidade.Text, txtPreço.Text });
+                MessageBox.Show("Produto adicionado com sucesso!!");
 
-               
             }
             catch (System.ArgumentException) {
 
                 MessageBox.Show("Quantidade: Apenas numeros inteiros.\nPreço: numeros inteiros ou decimal", "Quantidade / Preço");
             }
 
-            MessageBox.Show("Produto adicionado com sucesso!!");
-
+            
             txtPreço.Text = "";
             txtProduto.Text = "";
             txtQuantidade.Text = "";

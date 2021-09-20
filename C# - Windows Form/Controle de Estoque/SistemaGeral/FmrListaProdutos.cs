@@ -33,7 +33,7 @@ namespace SistemaGeral {
             dt.Columns.Add("Preço", typeof(string));
 
 
-            dt.Rows.Add(new Object[] {"sdasd", 4, "sadsad"});
+            //dt.Rows.Add(new Object[] {"sdasd", 4, "sadsad"});
             //dt.Rows.Add(new Object[] { "Docker", 10, 20.8});
 
             dataGridView1.DataSource = dt;
