@@ -244,7 +244,7 @@ namespace SistemaGeral
             this.MinimumSize = new System.Drawing.Size(816, 489);
             this.Name = "FmrInicial";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "7";
+            this.Text = "Estoque Produtos";
             this.menuVertical.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

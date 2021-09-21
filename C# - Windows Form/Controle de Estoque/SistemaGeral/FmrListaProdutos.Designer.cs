@@ -141,8 +141,8 @@ namespace SistemaGeral {
         private System.Windows.Forms.Button btmPesquisar;
         public System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btmAdd;
-        private System.Windows.Forms.Button btmEditar;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        public System.Windows.Forms.Button btmEditar;
     }
 }

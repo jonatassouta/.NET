@@ -25,13 +25,11 @@ namespace SistemaGeral {
             nome = nomeProd;
         }
 
-
         public void CarregarDados() {
 
             dt.Columns.Add("Nome", typeof(string));
             dt.Columns.Add("Quantidade", typeof(int));
             dt.Columns.Add("Preço", typeof(string));
-
 
             //dt.Rows.Add(new Object[] {"sdasd", 4, "sadsad"});
             //dt.Rows.Add(new Object[] { "Docker", 10, 20.8});

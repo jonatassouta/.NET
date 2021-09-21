@@ -16,20 +16,16 @@ namespace SistemaGeral {
             InitializeComponent();
             p = Application.OpenForms["FmrListaProdutos"] as FmrListaProdutos;
         }
-
-
         public void AdicionarTabela() {
             try {
                 p.dt.Rows.Add(new Object[] { txtProduto.Text, txtQuantidade.Text, txtPreço.Text });
                 MessageBox.Show("Produto adicionado com sucesso!!");
-
             }
             catch (System.ArgumentException) {
 
-                MessageBox.Show("Quantidade: Apenas numeros inteiros.\nPreço: numeros inteiros ou decimal", "Quantidade / Preço");
+                MessageBox.Show("Nome: Somente letras \n\nQuantidade: Apenas numeros inteiros.\n\nPreço: numeros inteiros ou decimal", "Nome / Quantidade / Preço");
             }
-
-            
+  
             txtPreço.Text = "";
             txtProduto.Text = "";
             txtQuantidade.Text = "";
@@ -60,9 +56,7 @@ namespace SistemaGeral {
         private void btmVender_Click(object sender, EventArgs e) {
             
             int t = int.Parse(p.dataGridView1.CurrentRow.Cells[1].Value.ToString());
-            int q = int.Parse(txtQuantidade.Text);
-
-            
+            int q = int.Parse(txtQuantidade.Text); 
 
             p.dataGridView1.Rows.RemoveAt(p.dataGridView1.CurrentRow.Index);
            
