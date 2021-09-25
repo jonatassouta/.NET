@@ -129,7 +129,7 @@ namespace SistemaGeral {
             this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FmrListaProdutos";
-            this.Text = "7";
+            this.Text = "FmrListaProdutos";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -141,8 +141,8 @@ namespace SistemaGeral {
         private System.Windows.Forms.Button btmPesquisar;
         public System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btmAdd;
+        private System.Windows.Forms.Button btmEditar;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-        public System.Windows.Forms.Button btmEditar;
     }
 }

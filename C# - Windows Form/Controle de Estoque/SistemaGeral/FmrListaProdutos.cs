@@ -19,22 +19,52 @@ namespace SistemaGeral {
         {
             InitializeComponent();
             CarregarDados();
+            
         }
 
         public FmrListaProdutos(string nomeProd) {
             nome = nomeProd;
         }
 
-        public void CarregarDados() {
 
+        public void CarregarDados() {
+            dt.Columns.Add("ID", typeof(int));
             dt.Columns.Add("Nome", typeof(string));
             dt.Columns.Add("Quantidade", typeof(int));
             dt.Columns.Add("Preço", typeof(string));
 
-            //dt.Rows.Add(new Object[] {"sdasd", 4, "sadsad"});
             //dt.Rows.Add(new Object[] { "Docker", 10, 20.8});
+            dt.Rows.Add(new Object[] { 1 ,"Docker", 2, 20.8});
 
             dataGridView1.DataSource = dt;
+            VerificarEstoque();
+        }
+
+        public void VerificarEstoque() {
+            try {
+                int indexLinha = 0;
+
+                foreach (DataGridViewRow linha in dataGridView1.Rows) {
+                    //buscar o codigo index da linha atraves do codigo
+                    //supondo que o codigo desejado seja 5
+                    try {
+                        if ((int)linha.Cells[1].Value <= 2) {
+                            break;
+                        }
+                    }
+                    catch (System.InvalidCastException) {
+                    }
+                    
+                    indexLinha++;
+                }
+
+                //o index da sua linha
+                MessageBox.Show(indexLinha.ToString());
+            }
+            catch (System.NullReferenceException) {
+                
+            }
+            
         }
 
         private void FiltrarGrade() {
@@ -77,6 +107,7 @@ namespace SistemaGeral {
                 p.txtProduto.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
                 p.txtQuantidade.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
                 p.txtPreço.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
+                p.txtPreço.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
 
                 dataGridView1.Rows.RemoveAt(dataGridView1.CurrentRow.Index);
 
@@ -94,11 +125,13 @@ namespace SistemaGeral {
 
                 p.btmVender.Visible = true;
                 p.button2.Visible = false;
-                p.txtProduto.Enabled = false;          
-           
-                p.txtProduto.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
-                p.txtQuantidade.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
-                p.txtPreço.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
+                p.txtProduto.Enabled = false;
+
+                p.txtPreço.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+                p.txtProduto.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
+                p.txtQuantidade.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
+                p.txtPreço.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
+                
 
                 try {       
                     int q = int.Parse(p.txtQuantidade.Text);
@@ -133,12 +166,6 @@ namespace SistemaGeral {
 
                 MessageBox.Show("Nenhum campo selecionado!!", "Erro!!");
             }           
-        }
-
-        public void VerificarEstoque() {
-            FormAdd p = new FormAdd();
-
-        
         }
     }
 }
