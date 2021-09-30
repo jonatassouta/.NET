@@ -1,0 +1,10 @@
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\obj\Debug\CRUD-Novo.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\obj\Debug\CRUD_Novo.FormMenu.resources
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\obj\Debug\CRUD_Novo.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\obj\Debug\CRUD-Novo.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\obj\Debug\CRUD-Novo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\bin\Debug\CRUD-Novo.exe.config
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\bin\Debug\CRUD-Novo.exe
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\bin\Debug\CRUD-Novo.pdb
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\obj\Debug\CRUD-Novo.exe
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD-Novo\CRUD-Novo\obj\Debug\CRUD-Novo.pdb

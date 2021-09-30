@@ -1,0 +1,10 @@
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\bin\Debug\CRUD - Teste.exe.config
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\bin\Debug\CRUD - Teste.exe
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\bin\Debug\CRUD - Teste.pdb
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\obj\Debug\CRUD - Teste.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\obj\Debug\CRUD___Teste.Form1.resources
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\obj\Debug\CRUD___Teste.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\obj\Debug\CRUD - Teste.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\obj\Debug\CRUD - Teste.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\obj\Debug\CRUD - Teste.exe
+C:\Users\jonat\OneDrive\Turma de Formação Cast\Windows Form\CRUD - Teste\CRUD - Teste\obj\Debug\CRUD - Teste.pdb
